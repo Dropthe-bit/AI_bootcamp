@@ -6,16 +6,18 @@
 ## 📄 실습 목록
 
 ### ➊ [ML 모델 비교 실습 (Model Comparison)](https://colab.research.google.com/github/Dropthe-bit/ai_portfolio/blob/main/02_Classification/2_1_machine_learning1_comparison.ipynb)
-- 다양한 ML 모델(RandomForest, SVM 등) 성능 비교
-- 회귀 및 분류 지표를 기준으로 모델 해석
+- 혼동행렬과 ROC-AUC를 활용한 분류 성능 평가 실습  
+- 정규화 / 표준화 전처리 방식의 차이 비교  
 
 <details>
 <summary>📚 포함된 실습 항목 보기</summary>
 
-- 다양한 ML 모델 비교 (`RandomForest`, `SVM`, 등)  
-- 성능 평가 지표 (RMSE, MAE, R², Accuracy 등)  
-- 예측 결과 시각화  
-- 모델 해석 및 활용 방안 도출  
+- 혼동 행렬 생성 (`confusion_matrix`)  
+- 성능 지표 계산: Accuracy, Precision, Recall, F1 Score  
+- ROC Curve 및 AUC 시각화 (`roc_curve`, `auc`)  
+- 변수 표준화 (`StandardScaler`) 및 정규화 (`MinMaxScaler`) 적용  
+- 정규화/표준화 비교 시각화  
+
 </details>
 
 ---
