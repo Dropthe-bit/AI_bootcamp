@@ -22,3 +22,19 @@
 - (참고) `statsmodels`로 해석  
 
 </details>
+
+
+### ➋ [다중 선형 회귀 (Multiple Linear Regression)](https://colab.research.google.com/github/Dropthe-bit/ai_portfolio/blob/main/01_Regression/1_2_regression_multiple_linear.ipynb)
+- 여러 특성을 사용하는 다중 회귀 모델 비교 및 해석
+- `scikit-learn`과 `statsmodels`의 회귀 결과 비교 실습 포함
+
+<details>
+<summary>📚 포함된 실습 항목 보기</summary>
+
+- 다중 선형 회귀 예제  
+- 변수 간 다중공선성 확인 (VIF 분석)  
+- 변수 제거를 통한 모델 단순화  
+- `LinearRegression`과 `OLS` 회귀 모델 적합  
+- R² 및 Adjusted R² 계산  
+- 예측 결과 시각화 및 성능 비교  
+</details>
