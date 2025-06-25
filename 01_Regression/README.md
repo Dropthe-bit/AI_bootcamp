@@ -39,7 +39,7 @@
 - 예측 결과 시각화 및 성능 비교  
 </details>
 
-### 3️⃣ [범주형 변수 회귀 (Categorical Regression)](https://colab.research.google.com/github/Dropthe-bit/ai_portfolio/blob/main/01_Regression/1_3_regression_categorical.ipynb)
+### ➌ [범주형 변수 회귀 (Categorical Regression)](https://colab.research.google.com/github/Dropthe-bit/ai_portfolio/blob/main/01_Regression/1_3_regression_categorical.ipynb)
 - 범주형 변수를 더미 변수로 변환하여 회귀 적용
 - 다중공선성 제거 및 모델 비교 실습 포함
 
