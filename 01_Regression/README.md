@@ -66,3 +66,17 @@
 - 테스트 데이터셋에 대한 예측 및 평가  
 - 규제 회귀 적용 전/후 모델 성능 비교  
 </details>
+
+### ➎ [로지스틱 회귀 (Logistic Regression)](https://colab.research.google.com/github/Dropthe-bit/ai_portfolio/blob/main/01_Regression/1_5_regression_logistic.ipynb)
+- 이진 분류 문제를 위한 로지스틱 회귀 분석 실습
+- 변수 선택 기법(Sequential Feature Selection)을 활용한 성능 개선
+
+<details>
+<summary>📚 포함된 실습 항목 보기</summary>
+
+- 로지스틱 회귀를 이용한 이진 분류  
+- 데이터 전처리 및 스케일링  
+- 변수 선택 (SFS) 기법을 활용한 피처 최적화  
+- 성능 평가 지표 (정확도, 혼동행렬 등) 출력  
+- 모델 비교 및 해석  
+</details>
