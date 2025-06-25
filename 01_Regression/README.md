@@ -38,3 +38,16 @@
 - R² 및 Adjusted R² 계산  
 - 예측 결과 시각화 및 성능 비교  
 </details>
+
+### 3️⃣ [범주형 변수 회귀 (Categorical Regression)](https://colab.research.google.com/github/Dropthe-bit/ai_portfolio/blob/main/01_Regression/1_3_regression_categorical.ipynb)
+- 범주형 변수를 더미 변수로 변환하여 회귀 적용
+- 다중공선성 제거 및 모델 비교 실습 포함
+
+<details>
+<summary>📚 포함된 실습 항목 보기</summary>
+
+- 수치형 데이터 기반 선형 회귀 모델 성능 평가  
+- 선택된 범주형 변수에 대해 `pd.get_dummies()`로 원-핫 인코딩 수행  
+- 기준 범주 제거를 통한 다중공선성 방지  
+- 범주형 포함 여부에 따른 회귀 성능 비교 (R², Adjusted R²)  
+</details>
