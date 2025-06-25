@@ -51,3 +51,18 @@
 - 기준 범주 제거를 통한 다중공선성 방지  
 - 범주형 포함 여부에 따른 회귀 성능 비교 (R², Adjusted R²)  
 </details>
+
+### ➍ [규제 회귀 (Ridge & Lasso Regression)](https://colab.research.google.com/github/Dropthe-bit/ai_portfolio/blob/main/01_Regression/1_4_regression_penalized.ipynb)
+- Ridge와 Lasso 회귀를 활용한 과적합 방지 및 성능 개선
+- 하이퍼파라미터 튜닝과 다양한 모델 성능 지표 비교
+
+<details>
+<summary>📚 포함된 실습 항목 보기</summary>
+
+- 회귀 예제  
+- `LinearRegression`, `Ridge`, `Lasso` 모델 비교  
+- GridSearchCV를 통한 alpha 최적값 탐색  
+- R², Adjusted R², MAE, MSE, MAPE 등 다양한 성능 지표 계산  
+- 테스트 데이터셋에 대한 예측 및 평가  
+- 규제 회귀 적용 전/후 모델 성능 비교  
+</details>
