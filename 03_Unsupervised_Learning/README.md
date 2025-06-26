@@ -24,7 +24,22 @@ K-means와 PCA 등의 알고리즘을 사용하여 데이터 구조를 이해하
   - ARI, Silhouette Score 활용  
 - `KneeLocator`, `clusteval` 활용 자동 군집 수 탐색  
 - `matplotlib`, `seaborn` 기반 시각화  
-- 차원 축소 기법(PCA 등)과의 통합 분석  
-- 실제 레이블과 군집 비교 분석 (예: iris species) 
+
+</details>
+
+---
+
+### ➋ [PCA 기반 차원 축소 (Dimension Reduction)](https://colab.research.google.com/github/Dropthe-bit/ai_portfolio/blob/main/03_Unsupervised_Learning/3_2_machine_learning2_dimension_reduction.ipynb)
+- 주성분 분석(PCA)을 통한 차원 축소 및 시각화  
+- 고차원 데이터를 시각적으로 해석 가능하게 표현
+
+<details>
+<summary>📚 포함된 실습 항목 보기</summary>
+
+- PCA 개념 설명 및 `scikit-learn` 적용  
+- 설명된 분산비(Explained Variance Ratio) 확인  
+- 차원 축소 전/후의 정보 손실 확인 (누적 분산 분석)  
+- 군집 구조 시각화 (`scatter plot` 기반 시각화)  
+- `matplotlib`, `seaborn` 활용  
 
 </details>
