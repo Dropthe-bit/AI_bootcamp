@@ -36,7 +36,7 @@ K-means와 PCA 등의 알고리즘을 사용하여 데이터 구조를 이해하
 <details>
 <summary>📚 포함된 실습 항목 보기</summary>
 
-- PCA 개념 설명 및 `scikit-learn` 적용  
+- PCA `scikit-learn` 적용  
 - 설명된 분산비(Explained Variance Ratio) 확인  
 - 차원 축소 전/후의 정보 손실 확인 (누적 분산 분석)  
 - 군집 구조 시각화 (`scatter plot` 기반 시각화)  
