@@ -5,13 +5,13 @@
 
 ## 📄 실습 목록
 
-### ➊ [교차 검증 (Cross Validation)](https://colab.research.google.com/github/Dropthe-bit/ai_portfolio/blob/main/4_1_machine_learning3_cross_validation.ipynb)
+### ➊ [교차 검증 (Cross Validation)](https://colab.research.google.com/github/Dropthe-bit/ai_portfolio/blob/main/04_Ensemble_Imbalanced/4_1_machine_learning3_cross_validation.ipynb)
 - 다양한 교차 검증 기법 (`KFold`, `Nested k-fod CV`) 실습  
 - 모델별 정확도 분석 및 평균 성능 확인  
 
 ---
 
-### ➋ [부스팅 모델 실습 (Boosting Models)](https://colab.research.google.com/github/Dropthe-bit/ai_portfolio/blob/main/4_2_machine_learning3_boosting.ipynb)
+### ➋ [부스팅 모델 실습 (Boosting Models)](https://colab.research.google.com/github/Dropthe-bit/ai_portfolio/blob/main/04_Ensemble_Imbalanced/4_2_machine_learning3_boosting.ipynb)
 - `Gradient Boosting`, `XGBoost`, `LightGBM`, `CatBoost` 모델 성능 비교  
 - `GridSearchCV` 기반 하이퍼파라미터 튜닝  
 
@@ -27,7 +27,7 @@
 
 ---
 
-### ➌ [ML 프로젝트 통합 실습](https://colab.research.google.com/github/Dropthe-bit/ai_portfolio/blob/main/4_3_machine_learning3_project_sol.ipynb)
+### ➌ [ML 프로젝트 통합 실습](https://colab.research.google.com/github/Dropthe-bit/ai_portfolio/blob/main/04_Ensemble_Imbalanced/4_3_machine_learning3_project_sol.ipynb)
 - 전처리부터 모델 튜닝까지 통합된 ML 실습  
 - `GridSearchCV`를 활용한 하이퍼파라미터 튜닝  
 - 종합 성능 평가 (`classification_report`, `confusion_matrix`)  
@@ -44,7 +44,7 @@
 
 ---
 
-### ➍ [불균형 데이터 처리 (Imbalanced Data)](https://colab.research.google.com/github/Dropthe-bit/ai_portfolio/blob/main/4_4_machine_learning4_imbalance.ipynb)
+### ➍ [불균형 데이터 처리 (Imbalanced Data)](https://colab.research.google.com/github/Dropthe-bit/ai_portfolio/blob/main/04_Ensemble_Imbalanced/4_4_machine_learning4_imbalance.ipynb)
 - `SMOTE`, `RandomOverSampler`, `RandomUnderSampler` 등 샘플링 기법 실습  
 - 불균형 상황에서의 모델 평가 지표 분석
 
@@ -58,7 +58,7 @@
 ---
 
 
-### ➎ [이상치 탐지 (Anomaly Detection)](https://colab.research.google.com/github/Dropthe-bit/ai_portfolio/blob/main/4_5_machine_learning4_anomaly.ipynb)
+### ➎ [이상치 탐지 (Anomaly Detection)](https://colab.research.google.com/github/Dropthe-bit/ai_portfolio/blob/main/04_Ensemble_Imbalanced/4_5_machine_learning4_anomaly.ipynb)
 - `IsolationForest` 모델 실습
 - 이상 탐지 결과 시각화 및 threshold 실험  
 - 비지도 학습 기반 이상 탐지 적용  
@@ -72,7 +72,7 @@
 
 ---
 
-### ➏ [AutoML 실습 (PyCaret & H2O)](https://colab.research.google.com/github/Dropthe-bit/ai_portfolio/blob/main/4_6_machine_learning4_automl.ipynb)
+### ➏ [AutoML 실습 (PyCaret & H2O)](https://colab.research.google.com/github/Dropthe-bit/ai_portfolio/blob/main/04_Ensemble_Imbalanced/4_6_machine_learning4_automl.ipynb)
 - `PyCaret`, `H2O AutoML` 기반 머신러닝 실습  
 - 핵심 함수 사용 예제 실습 (`compare_models`, `tune_model`)  
 - 모델 저장 및 재활용 (`save_model`, `load_model`)  
