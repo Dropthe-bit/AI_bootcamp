@@ -5,7 +5,7 @@ Attention 메커니즘, 포지셔널 인코딩, 멀티헤드 어텐션 구현부
 
 ## 📄 실습 목록
 
-### ➊ [Seq2Seq + Attention Mechanism, Transformer, GPT2 실습 통합](https://colab.research.google.com/github/Dropthe-bit/ai_portfolio/blob/main/06_LLM/6_transfomer.ipynb)
+### ➊ [Seq2Seq + Attention Mechanism, Transformer, GPT2 실습 통합](https://colab.research.google.com/github/Dropthe-bit/ai_portfolio/blob/main/06_LLM/6_1_transfomer.ipynb)
 - 번역을 위한 GRU 기반 Seq2Seq 모델 구현
 - Attention 메커니즘 적용하여 문맥 정보 강화
 - Transformer의 포지셔널 인코딩, 멀티헤드 어텐션 등 핵심 모듈 직접 구현
@@ -25,7 +25,7 @@ Attention 메커니즘, 포지셔널 인코딩, 멀티헤드 어텐션 구현부
 - GPT2 파인튜닝을 위한 커스텀 학습 루프
 </details>
 
-### ➋ [Zero-shot Prompting, CoT, RAG, PEFT 통합 실습](https://colab.research.google.com/github/Dropthe-bit/ai_portfolio/blob/main/06_LLM/6-llm.ipynb)
+### ➋ [Zero-shot Prompting, CoT, RAG, PEFT 통합 실습](https://colab.research.google.com/github/Dropthe-bit/ai_portfolio/blob/main/06_LLM/6_2_llm.ipynb)
 - 사전학습된 언어모델에 Prompt만으로 문제 해결 (Zero-shot)
 - 추론 과정을 중간 단계로 유도하는 Chain-of-Thought(COT) 기법 실습
 - FAISS 기반 문서 검색을 통한 Retrieval-Augmented Generation (RAG)
