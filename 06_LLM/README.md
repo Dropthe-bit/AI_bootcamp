@@ -15,8 +15,7 @@ Attention 메커니즘, 포지셔널 인코딩, 멀티헤드 어텐션 구현부
 <details>
 <summary>📚 포함된 실습 항목 보기</summary>
 
-- GPT2Tokenizer를 활용한 토크나이징  
-- `<PAD>` 및 `<|endoftext|>` 토큰 처리  
+- GPT2Tokenizer를 활용한 토크나이징   
 - 커스텀 Dataset (`WMTDataset`) 및 `collate_fn` 구성  
 - Seq2Seq 모델 클래스 및 Attention 모듈 구현  
 - 포지셔널 인코딩, 멀티헤드 어텐션, Feedforward, LayerNorm 직접 구현  
