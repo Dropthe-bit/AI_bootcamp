@@ -24,3 +24,20 @@ Attention 메커니즘, 포지셔널 인코딩, 멀티헤드 어텐션 구현부
 - GPT2 기반 제로샷 번역 실습 
 - GPT2 파인튜닝을 위한 커스텀 학습 루프
 </details>
+
+### ➋ [Zero-shot Prompting, CoT, RAG, PEFT 통합 실습](https://colab.research.google.com/github/Dropthe-bit/ai_portfolio/blob/main/06_LLM/6-llm.ipynb)
+- 사전학습된 언어모델에 Prompt만으로 문제 해결 (Zero-shot)
+- 추론 과정을 중간 단계로 유도하는 Chain-of-Thought(COT) 기법 실습
+- FAISS 기반 문서 검색을 통한 Retrieval-Augmented Generation (RAG)
+- RAG에 PEFT 기법을 결합한 파라미터 효율적 미세조정 실습
+
+<details>
+<summary>📚 포함된 실습 항목 보기</summary>
+
+- Hugging Face 모델과 토크나이저 로딩 및 프롬프트 생성  
+- `generate()`를 이용한 Zero-shot 추론  
+- Chain-of-Thought Prompt 구성 및 출력 결과 비교  
+- FAISS를 통한 벡터기반 문서 검색 및 RAG 구현  
+- 사용자 질문에 대한 검색 → 컨텍스트 → 생성 흐름 구성  
+- LoRA 미세조정 적용    
+</details>
