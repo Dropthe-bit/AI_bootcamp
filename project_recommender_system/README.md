@@ -21,3 +21,28 @@
 </details>
 
 ---
+
+# 📚 Book Recommendation System
+
+이 프로젝트는 Kaggle의 `Book Recommendation Dataset`을 기반으로 다양한 **추천 알고리즘**을 실습한 노트북입니다.  
+메모리 기반 협업 필터링, 행렬 분해, 딥러닝 기반 모델, 콘텐츠 기반 추천 등 **다양한 방식의 추천 시스템**을 실습과 함께 학습할 수 있습니다.
+
+## 📄 실습 노트북
+
+### ➊ [book_recommend_system.ipynb](https://colab.research.google.com/github/Dropthe-bit/ai_portfolio/blob/main/project_recommender_system/book_recommend_system.ipynb)
+- Kaggle 데이터 기반 책 추천 시스템 구축
+- EDA, 전처리, 다양한 추천 알고리즘의 구현 포함
+- 협업 필터링, SVD/NMF, NCF, 콘텐츠 기반, 인기 기반 추천까지 다룸
+- ** Kaggle Notebook 환경에서 실행 가능**
+
+<details>
+<summary>📚 포함 알고리즘 요약</summary>
+
+- Memory-based Collaborative Filtering  
+- Model-based Matrix Factorization (SVD, NMF, SVDpp)  
+- Neural Collaborative Filtering (NCF)  
+- Content-based Filtering  
+- Popularity-based Recommendation  
+- Final 모델 통합 클래스 구성  
+
+</details>
