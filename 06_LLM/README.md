@@ -9,7 +9,7 @@ Attention 메커니즘, 포지셔널 인코딩, 멀티헤드 어텐션 구현부
 - 번역을 위한 GRU 기반 Seq2Seq 모델 구현
 - Attention 메커니즘 적용하여 문맥 정보 강화
 - Transformer의 포지셔널 인코딩, 멀티헤드 어텐션 등 핵심 모듈 직접 구현
-- Hugging Face의 GPT2Tokenizer 실습 및 제로샷 번역 시연
+- Hugging Face의 GPT2Tokenizer 실습 및 제로샷 번역
 - 사전학습된 GPT2를 번역 태스크에 맞게 파인튜닝
 
 <details>
